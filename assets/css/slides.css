@@ -59,7 +59,7 @@ ol {
 img {
   max-height: 400px;
   max-width: 700px;
-  border: 0 !important;
+  border: 1px !important;
   box-shadow: none !important;
   background: none !important;
 }
